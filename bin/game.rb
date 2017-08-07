@@ -1,0 +1,1 @@
+require_relative '../command_line_games/bin/command_line_games'
